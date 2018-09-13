@@ -16,7 +16,7 @@ function add2(n) {
 var funkyFunction = 'FUNKY!';
 var theFunk = funkyFunction;
 
-function funkyFunction(string){
+function funkyFunction(){
   if (theFunk === funkyFunction) return funkyFunction('function')
 }
 
