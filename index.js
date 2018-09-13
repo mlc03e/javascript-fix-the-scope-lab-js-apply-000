@@ -17,7 +17,7 @@ var funkyFunction = 'FUNKY!';
 var theFunk = funkyFunction;
 
 function funkyFunction(){
-  if (theFunk === funkyFunction) return funkyFunction('function')
+  if (theFunk === funkyFunction) return (funkyFunction())
 }
 
   
