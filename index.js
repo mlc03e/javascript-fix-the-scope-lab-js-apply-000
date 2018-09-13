@@ -15,6 +15,7 @@ function add2(n) {
 }
 var funkyFunction = 'FUNKY!';
 var theFunk = funkyFunction;
+var funkyFunction = function outsideFunction
 
 console.log(funkyFunction)
 
