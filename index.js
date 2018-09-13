@@ -16,10 +16,11 @@ function add2(n) {
 var funkyFunction = 'FUNKY!';
 var theFunk = funkyFunction;
 
-function funkyFunction
+
 
   
 function theFunk() {
+  funkyFunction
   return funkyFunction 
     }
 
